@@ -1,0 +1,25 @@
+body {
+    background-color: #8cff66;
+}
+.header {
+    text-align: center;
+}
+.tagline {
+    background-color: #fff;
+    padding: 5px 10px;
+    margin: 0 30px;
+}
+.skills {
+    background-color: #fff;
+    padding: 5px 10px;
+    margin: 0 30px;
+}
+.contact {
+    background-color: #fff;
+    padding: 5px 10px;
+    margin: 0 30px;
+}
+.separator {
+    background-color: #8cff66;
+    height: 20px;
+}
